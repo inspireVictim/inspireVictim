@@ -1,0 +1,98 @@
+{
+  "username": "inspireVictim",
+  "handle": "inspirevictim",
+  "avatar": "assets/avatar.jpg",
+
+  "neofetch": [
+    ["Role",     "Full-Stack Developer"],
+    ["Now",      "AI bots · web products · automation"],
+    ["Focus",    "Backend · Web · Bots · DevOps"],
+    ["Stack",    "Python · TypeScript · C#"],
+    ["Backend",  "FastAPI · Node.js · .NET"],
+    ["Frontend", "React · Vue · Tailwind"],
+    ["Data",     "PostgreSQL · SQLite"],
+    ["Infra",    "Docker · GitHub Actions · VPS"],
+    ["Based",    "Bishkek, Kyrgyzstan"]
+  ],
+
+  "projects": [
+    {
+      "name": "Stride Outreach",
+      "meta": "CRM / WhatsApp automation · Author · 2026",
+      "tags": ["Private"],
+      "tech": ["TypeScript", "Node.js", "PostgreSQL"]
+    },
+    {
+      "name": "Bybit Trading Bot",
+      "meta": "Algo trading / Bybit V5 · Author · 2026",
+      "tags": ["Private"],
+      "tech": ["TypeScript", "Node.js"]
+    },
+    {
+      "name": "California Biomedics",
+      "meta": "E-commerce / Storefront · Author · 2026",
+      "tags": ["Private"],
+      "tech": ["Vue", "Node.js", "PostgreSQL"]
+    },
+    {
+      "name": "FashionMart Buyer",
+      "meta": "Marketplace / Proxy-buying · Author · 2026",
+      "tags": ["Private"],
+      "tech": ["TypeScript", "Node.js", "Tailwind"]
+    },
+    {
+      "name": "MyVPN",
+      "meta": "Mobile / VPN client · Author · 2026",
+      "tags": ["Private"],
+      "tech": ["Flutter", "Node.js"]
+    },
+    {
+      "name": "Speaker Bot",
+      "meta": "AI / Comment moderation · Author · 2026",
+      "tags": ["Private"],
+      "tech": ["TypeScript", "OpenAI"]
+    },
+    {
+      "name": "Deploy Platform",
+      "meta": "DevOps / CI-CD to VPS · Author · 2026",
+      "tags": ["Private"],
+      "tech": ["Docker", "GitHub Actions"]
+    },
+    {
+      "name": "users-management",
+      "meta": "Backend / RBAC · JWT · audit · 2026",
+      "tags": ["Public"],
+      "tech": ["Python", "FastAPI", "SQLite"]
+    },
+    {
+      "name": "Jarvis",
+      "meta": "AI / Voice assistant · Author · 2025",
+      "tags": ["Public"],
+      "tech": ["Python"]
+    },
+    {
+      "name": "NomadBike Backend",
+      "meta": "Mobility / Backend · Author · 2026",
+      "tags": ["Public"],
+      "tech": ["C#", ".NET"]
+    }
+  ],
+
+  "links": [
+    { "label": "GITHUB", "url": "https://github.com/inspireVictim", "icon": "github" },
+    { "label": "EMAIL",  "url": "mailto:zzhaparovn@gmail.com",      "icon": "gmail" }
+  ],
+
+  "footer": "~ built with SVG + a daily GitHub Action · no trackers, no tokens ~",
+
+  "art": {
+    "cols": 98,
+    "crop": [280, 95, 890, 900],
+    "median": 5,
+    "cutoff": 5,
+    "contrast": 1.6,
+    "ramp": "classic",
+    "invert": true,
+    "cut": 190
+  }
+}
