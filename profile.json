@@ -80,7 +80,7 @@
 
   "links": [
     { "label": "GITHUB", "url": "https://github.com/inspireVictim", "icon": "github" },
-    { "label": "EMAIL",  "url": "mailto:zzhaparovn@gmail.com",      "icon": "gmail" }
+    { "label": "EMAIL",  "url": "mailto:narbotokerimov@gmail.com",  "icon": "gmail" }
   ],
 
   "footer": "~ built with SVG + a daily GitHub Action · no trackers, no tokens ~",
